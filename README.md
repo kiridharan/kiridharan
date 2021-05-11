@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kiridharan
-- 👀 I’m interested in web dev & MAchine learning
+- 👀 I’m interested in web dev & Machine learning , app development , XR
 - 🌱 I’m currently learning django , flutter
 
-- 💞️ I’m looking to collaborate on project based on flutter, django python
+- 💞️ I’m looking to collaborate on project based on flutter, django 
 - 📫 How to reach me @k.i.r.i.d.h.a.r.a.n
 
 <!---
