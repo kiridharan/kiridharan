@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kiridharan
 - 👀 I’m interested in web dev & Machine learning , cross-platform development , XR
-  -- programming-lang: Python , Dart , C++/C ,Java
-  -- frameworks USED: Flutter , Flutter , Bootstrap , ReactJS
-  -- Databases : SQLite , MySQL , Redis , MongoDB , FirebaseDB's
+  - programming-lang: Python , Dart , C++/C ,Java
+  - frameworks USED: Flutter , Flutter , Bootstrap , ReactJS
+  - Databases : SQLite , MySQL , Redis , MongoDB , FirebaseDB's
 - 🎇I’m currently working projects on django , flutter , machine learning
 - 💞️ I’m looking to collaborate on project based on flutter, django 
 - 📫 How to reach me @k.i.r.i.d.h.a.r.a.n
