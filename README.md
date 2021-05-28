@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @kiridharan
-- 👀 I’m interested in web dev & Machine learning , app development , XR
-- 🌱 I’m currently learning django , flutter , javascript 
-
+- 👀 I’m interested in web dev & Machine learning , cross-platform development , XR
+- 🎇 I’m currently working projects on django , flutter , machine learning
+-
 - 💞️ I’m looking to collaborate on project based on flutter, django 
 - 📫 How to reach me @k.i.r.i.d.h.a.r.a.n
+- 
 
 <!---
 kiridharan/kiridharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
