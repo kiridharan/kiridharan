@@ -9,30 +9,7 @@
 kiridharan/kiridharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-on:
-  schedule:
-    - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
-      - main
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1
-      with:
-        token: ${{ secrets. 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  }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
-        fi
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kiridharan&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiridharan&langs_count=5&theme=tokyonight)]()
