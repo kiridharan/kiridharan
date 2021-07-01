@@ -6,7 +6,7 @@
 - 🎇I’m currently working projects on django , flutter , machine learning
 - 💞️ I’m looking to collaborate on project based on flutter, django 
 - 📫 How to reach me @k.i.r.i.d.h.a.r.a.n
-- Lot of JS project Will not here . Sorry.. All its are Bought or private .🤞🤞🤞
+- Lot of JS project Will not here . Sorry.. All are Bought or private .🤞🤞🤞
 <!---
 kiridharan/kiridharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
