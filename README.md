@@ -4,7 +4,7 @@
   - frameworks USED: Flutter , Flutter , Bootstrap , VueJs ,React
   - Databases : SQLite , MySQL , Redis , MongoDB , FirebaseDB's
 - 🎇I’m currently working projects on django , flutter , machine learning
-- 💞️ I’m looking to collaborate on project based on flutter, django 
+- 💞️ I’m looking to collaborate on project based on UX Designing , Flutter , Web development
 - 📫 How to reach me @k.i.r.i.d.h.a.r.a.n
 - Lot of JS project Will not here . Sorry.. All are Bought or private .🤞🤞🤞
 <!---
