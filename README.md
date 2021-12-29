@@ -1,18 +1,17 @@
-- 👋 Hi, I’m @kiridharan
-- 👀 I’m interested in web dev & Machine learning , cross-platform development , UX/UI , Pen Tester
-  - programming-lang: Python , Dart , C++/C ,Java
-  - frameworks USED: Flutter , Flutter , Bootstrap , VueJs ,React
-  - Databases : SQLite , MySQL , Redis , MongoDB , FirebaseDB's
-- 🎇I’m currently working projects on django , flutter , machine learning
-- 💞️ I’m looking to collaborate on project based on UX Designing , Flutter , Web development
-- 📫 How to reach me @_dharan._
-<!---
-kiridharan/kiridharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Kiridharan S</h1>
+<h3 align="center">Backend developer | Designer | Flutter developer |pen Tester</h3>
 
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kiridharan&count_private=true&theme=tokyonight&showicons=true)]() -->
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiridharan&langs_count=5&theme=tokyonight)]() -->
+![](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
-[![Gif](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/13611626/kiri-dharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13611626/kiri-dharan" height="30" width="40" /></a>
+<a href="https://instagram.com/_dharan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_8381" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
