@@ -8,7 +8,6 @@ Web3 ❤️❤️❤️as well.
 🌍  I'm based in Chennai, India<br>
 🖥️  See my portfolio at Portfolio<br>
 ✉️  You can contact me at kiri9941090162@gmail.com<br>
-🧠  I'm learning Networking/Cyber-Security<br>
 🤝  I'm open to collaborating on Flutter Apps and Open Source Apps<br>
 
 ## 🌐Socials
