@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm kiridharan S</h1>
 <h3 align="center">Smart India Hackathon Winner'22 || Python || Flutter || Backend || DevOps</h3>
+Python & Full Stack Developer exploring Flutter, Django & blockchain. 1.5 years experience. Passionate about merging creativity and technology, and seeking new challenges.
+
+- 🔭 I’m currently working on BLockchain Platform as a service  
+- 🌱 I’m currently learning Blockchain  
+- 👯 I’m looking to collaborate on DevOps , Flutter  
+- 🤔 I’m looking for help with Flutter , django 
+- Skills: Django , Python  , Flutter devOps , Cloud 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
