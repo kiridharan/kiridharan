@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiridharan&label=Profile%20views&color=0e75b6&style=flat" alt="kiridharan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiridharan" alt="kiridharan" /></a> </p>
-
 - 🔭 I’m currently working on [learngitbydoing](https://github.com/kiridharan/learngitbydoing)
 
 - 🌱 I’m currently learning **GenAI , MCP , Cloud , Backend**
