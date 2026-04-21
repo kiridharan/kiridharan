@@ -11,6 +11,7 @@ Building with GenAI, React, and modern backend technologies.
 Currently focused on 
 1. **[learngitbydoing](https://github.com/kiridharan/learngitbydoing)** 
 2. **[DBSeederCLI](https://github.com/kiridharan/seedcli)**
+3. **[DashLink](https://github.com/kiridharan/dashlink)**
 
 and exploring GenAI, MCP, and Cloud architectures.
 
