@@ -12,6 +12,7 @@ Currently focused on
 1. **[learngitbydoing](https://github.com/kiridharan/learngitbydoing)** 
 2. **[DBSeederCLI](https://github.com/kiridharan/seedcli)**
 3. **[DashLink](https://github.com/kiridharan/dashlink)**
+4. **[ToolAudit](https://github.com/kiridharan/toolaudit)**
 
 and exploring GenAI, MCP, and Cloud architectures.
 
