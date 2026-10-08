@@ -13,6 +13,7 @@ Currently focused on
 2. **[DBSeederCLI](https://github.com/kiridharan/seedcli)**
 3. **[DashLink](https://github.com/kiridharan/dashlink)**
 4. **[ToolAudit](https://github.com/kiridharan/toolaudit)**
+5. **[Koban](https://github.com/kiridharan/koban)**
 
 and exploring GenAI, MCP, and Cloud architectures.
 
